@@ -14,5 +14,8 @@ axes.grid: false
 #FIGURE
 figure.constrained_layout.use: true
 
+#LINES
+lines.linewidth: 2.5
+
 #FONT
 font.size: 12.5
