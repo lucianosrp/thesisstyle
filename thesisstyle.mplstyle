@@ -2,7 +2,7 @@
 #Colors are from https://learnui.design/tools/data-color-picker.html
 
 #AXES
-axes.prop_cycle: cycler('color',['#003f5c', '#f95d6a', '#ffa600','#2f4b7c','#665191','#a05195','#d45087','#ff7c43'])
+axes.prop_cycle: cycler('color',['003f5c', 'f95d6a', 'ffa600','2f4b7c','665191','a05195','d45087','ff7c43'])
 axes.facecolor: f0f0f0
 axes.labelsize: medium
 axes.axisbelow: true
