@@ -13,6 +13,7 @@ axes.grid: false
 
 #FIGURE
 figure.constrained_layout.use: true
+figure.facecolor: white
 
 #LINES
 lines.linewidth: 2.5
