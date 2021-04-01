@@ -18,7 +18,7 @@ axes.labelcolor: white
 
 #FIGURE
 figure.constrained_layout.use: true
-figure.facecolor: white
+figure.facecolor: 121212
 
 
 #LINES
