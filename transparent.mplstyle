@@ -7,7 +7,7 @@ text.color: white
 
 #AXES
 axes.prop_cycle: cycler('color',['003f5c', 'f95d6a', 'ffa600','2f4b7c','665191','a05195','d45087','ff7c43'])
-axes.facecolor: 'none'
+axes.facecolor: 121212
 axes.edgecolor: white
 axes.labelsize: medium
 axes.axisbelow: true
@@ -18,6 +18,8 @@ axes.labelcolor: white
 
 #FIGURE
 figure.constrained_layout.use: true
+figure.facecolor: white
+
 
 #LINES
 lines.linewidth: 2.5

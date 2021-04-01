@@ -14,4 +14,4 @@ with plt.style.context('transparent.mplstyle'):
     line2, = ax.plot(x, y - 0.2, dashes=[6, 2], label='Using the dashes parameter')
 
 ax.legend()
-plt.savefig('try.png',transparent=True)
+plt.savefig('try.png',facecolor='#121212')
